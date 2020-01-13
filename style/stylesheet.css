@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap"rel="stylesheet">);
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Menu bar */
+.menu_bar {
+    list-style: none;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+.menu_bar li {
+    float: left;
+    padding: auto;
+    margin: 3px;
+    width: 220px;
+    background-color: #0f4c75;
+    border-radius: 100px;
+    font-style: oblique;
+    font-weight: bold;
+    
+}
+
+.menu_bar li a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu_bar li:hover {
+    background-color: #916dd5;
+    color: #d89cf6;
+}
+
+/*welcome */
+.welcome {
+    font-family: 'Roboto Slab', serif;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    border-radius: 90px
+}
+
+.welcome td img {
+    border-radius: 200px;
+    height: 210px;
+    width: 210px
+}
+
+.image_01 {
+    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+}
+
+
+
+
+
+
+
+
+
+

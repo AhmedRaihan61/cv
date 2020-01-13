@@ -1,0 +1,24 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.edu {
+    font-size: 17px;
+    text-align-last: center;
+}
+
+.edu th {
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    width: 250px;
+    height: 50px;
+    color: #faf5e4;
+}
+
+.edu td {
+    width: 200px;
+    height: 50px;
+    background-color: #effffb;
+    color: #758184;
+}
